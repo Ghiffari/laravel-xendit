@@ -10,7 +10,7 @@
 Via Composer
 
 ``` bash
-$ composer require ghiffariaq/mini-acl
+$ composer require ghiffariaq/laravel-xendit
 ```
 
 After finish installing using composer
