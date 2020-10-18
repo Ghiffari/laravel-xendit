@@ -23,7 +23,7 @@ After finish installing using composer
 
 ## Official Documentation
 
-Here link to [official documentation][link-xendit] for parameter required.
+Here link to  [official documentation][link-xendit] for parameter required.
 
 ## Usage
 
@@ -44,7 +44,7 @@ license. Please see the [license file](license.md) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/ghiffariaq/laravel-xendit.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/ghiffariaq/laravel-xendit.svg?style=flat-square
-
+[link-xendit]: https://developers.xendit.co/api-reference/?bash#introduction
 
 [link-packagist]: https://packagist.org/packages/ghiffariaq/laravel-xendit
 [link-downloads]: https://packagist.org/packages/ghiffariaq/laravel-xendit
