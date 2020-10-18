@@ -1,0 +1,16 @@
+.wrapper{
+    width: 400px;
+    margin: 50px auto;
+}
+small{
+    font-size: 12px;
+}
+button{
+    line-height: 1em!important;
+}
+.btn-lg{
+    padding: 15px!important;
+}
+a, a:hover{
+    text-decoration: none;
+}

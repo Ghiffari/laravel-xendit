@@ -1,0 +1,28 @@
+{
+    "name": "ghiffariaq/laravel-xendit",
+    "description": "Laravel Xendit Packages",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ghiffari Assamar Qandi",
+            "email": "travish90@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ghiffariaq\\LaraXendit\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ghiffariaq\\LaraXendit\\LaraXenditServiceProvider"
+            ],
+            "aliases": {
+                "MiniACL": "Ghiffariaq\\LaraXendit\\Facades\\LaraXendit"
+            }
+        }
+    }
+}
