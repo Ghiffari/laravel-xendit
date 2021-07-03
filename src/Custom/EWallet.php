@@ -13,13 +13,13 @@ class EWallet
 
     public static function create($params = [])
     {
-        $res = self::rawRequest('POST','ewallets',$params);
+        $res = self::rawRequest('POST','ewallets/charges',$params);
         return $res;
     }
 
     public static function getDetail($params = [])
     {
-        $res = self::apiRequest('GET',"ewallets",$params);
+        $res = self::apiRequest('GET',"ewallets/charges",$params);
         return $res;
     }
 
